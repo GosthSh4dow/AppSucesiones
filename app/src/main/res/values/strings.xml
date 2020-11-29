@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AppSucesiones</string>
+    <string name="txt_num">Ingrese un Numero </string>
+    <string name="rb1">Fibonacci</string>
+    <string name="rb2">Secuencial</string>
+    <string name="boton">Calcular </string>
+    <string name="resultado">0</string>
+    <string name="rb3">Secuncial Binario</string>
+    <string name="rb4">Secuencial Pares</string>
+    <string name="txtnombre">Nombre</string>
+    <string name="txtresul">0</string>
+
+
+</resources>
